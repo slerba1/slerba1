@@ -2,7 +2,7 @@
 - Currently learning Java
 - Working on mainly on CumHack (1.12.2 Anarchy client)
 - Discord Slerba#2576 
-- Certified FitFag and popbob fanboy
+- Certified fitfag and popbob fanboy
 
 
 <!---
