@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slerba1
 - Currently learning Java
-- Working on CumHack (1.12.2 Anarchy client)
+- Working on mainly on CumHack (1.12.2 Anarchy client)
 - Discord Slerba#2576 
 
 <!---
